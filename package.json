@@ -1,5 +1,5 @@
 {
-  "name": "deploy-contract",
+  "name": "moncontract",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
