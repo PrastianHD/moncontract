@@ -11,7 +11,7 @@
      ```
 
 2. **Install Git (Optional, but recommended)**
-   - Download from [Git for Windows](https://git-scm.com/download/win)
+   - Download from [Git for Windows](https://git-scm.com/download/)
    - Verify installation:
      ```sh
      git --version
