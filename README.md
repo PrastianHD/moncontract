@@ -1,5 +1,7 @@
 ## 🚀 Deploy ERC20 on Monad Testnet 
 
+![logo](foto.jpg)
+
 1. **Install Node.js (Latest LTS Version)**
    - Download from [Node.js Official Site](https://nodejs.org/)
    - Ensure `npm` is installed by running:
