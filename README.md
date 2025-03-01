@@ -11,7 +11,7 @@
      ```
 
 2. **Install Git (Optional, but recommended)**
-   - Download from [Git for Windows](https://git-scm.com/download/win)
+   - Download from [Git for Windows](https://git-scm.com/download/)
    - Verify installation:
      ```sh
      git --version
@@ -40,6 +40,6 @@
     npm run compile
     npm start
     ```
-   - Enter Token Name, Symbol, Supply, and Decimals
+   - Enter Token Name, Symbol, Supply
    - Wait for deployment, minting, and verification to complete
    - Check contract on Monad Explorer: https://testnet.monadexplorer.com/
